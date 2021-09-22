@@ -1,0 +1,10 @@
+torch
+gensim
+numpy
+pandas
+sklearn
+matplotlib
+sentence-transformers
+transformers
+bertviz
+tweepy
